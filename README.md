@@ -34,8 +34,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: your-linkedin
+- GitHub: [Nick0086](https://github.com/Nick0086)
+- LinkedIn: [Nikunj Kalathiya](https://www.linkedin.com/in/nikunj-kalathiya-613158219)
 
 ---
 
