@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Nikunj
 
-<!--
-**Nick0086/Nick0086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer from India  
+🚀 Building SaaS & automation tools  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Node.js
+- React
+- Python
+- MySQL
+- AWS
+- MinIO
+
+---
+
+## 🔨 Current Projects
+
+- Gym Management SaaS
+- WhatsApp Reminder Tool
+- AI Automation Tools
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Micro SaaS
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: your-linkedin
+
+---
+
+## ⚡ Fun Fact
+
+I love building micro SaaS products that solve small business problems.
